@@ -1,4 +1,4 @@
-<img src="https://github.com/Kasumikooo/Kasumikooo/assets/miki" width="25%" align="right" />
+<img src="https://github.com/Kasumikooo/Kasumikooo/assets/Miki" width="25%" align="right" />
 
 About Me
 I'm currently pursuing a bachelor's degree in computer science<br>I’m currently learning<br>Fun fact: I'm a computer science femboy
