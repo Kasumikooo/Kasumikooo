@@ -27,12 +27,50 @@ I'm currently pursuing a bachelor's degree in computer science<br>I’m currentl
 <a href="#"><img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZT0iI2ZmZmZmZiI%2BCg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BCg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI%2BIDx0aXRsZT5nbWFpbDwvdGl0bGU%2BIDxwYXRoIGQ9Ik0zMC45OTYgNy44MjR2MTcuMzgxYzAgMCAwIDAgMCAwLjAwMSAwIDEuMTI5LTAuOTE1IDIuMDQ0LTIuMDQ0IDIuMDQ0LTAgMC0wIDAtMC4wMDEgMGgtNC43NzJ2LTExLjU4N2wtOC4xNzkgNi4xMzYtOC4xNzktNi4xMzZ2MTEuNTg4aC00Ljc3MmMwIDAgMCAwLTAgMC0xLjEyOSAwLTIuMDQ0LTAuOTE1LTIuMDQ0LTIuMDQ0IDAtMCAwLTAuMDAxIDAtMC4wMDF2MC0xNy4zODFjMC0wIDAtMC4wMDEgMC0wLjAwMSAwLTEuNjk0IDEuMzczLTMuMDY3IDMuMDY3LTMuMDY3IDAuNjk0IDAgMS4zMzQgMC4yMzEgMS44NDggMC42MTlsLTAuMDA4LTAuMDA2IDEwLjA4OCA3LjU2NyAxMC4wODgtNy41NjdjMC41MDYtMC4zODMgMS4xNDYtMC42MTMgMS44NC0wLjYxMyAxLjY5NCAwIDMuMDY3IDEuMzczIDMuMDY3IDMuMDY3djB6Ii8%2BIDwvZz4KDTwvc3ZnPg%3D%3D&logoColor=white&logoSize=amg&labelColor=black&color=black&cacheSeconds=3600"></a>
 </div>
 
+&nbsp;
+
 <div align="center">
   <h2>Github Stats</h2>
   
-![](https://github-readme-stats.shion.dev/api?username=Kasumikooo&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-stats.shion.dev/api?username=Kasumikooo&theme=merko&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kasumikooo&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kasumikooo&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  
+<div align="center">
+  <h2>TechStack</h2>
+&nbsp;
+
+  <table align="center" style="background: transparent; border: none;">
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Frontend</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Backend & Database</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/API_Integration-000000?style=for-the-badge&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>DevOps & Tools</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+      </td>
+    </tr>
+  </table>
 </div>
 
