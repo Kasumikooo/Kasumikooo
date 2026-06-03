@@ -1,5 +1,5 @@
 <a href="https://github.com/Kasumikooo">
-  <img src="https://github.com/Kasumikooo/Kasumikooo/blob/42fda46ad6f047d7055756a2b0660b62f2aa6ad4/assets/Flyaway.jpg" width="100%" alt="Homura Banner"/>
+  <img src="https://github.com/Kasumikooo/Kasumikooo/blob/42fda46ad6f047d7055756a2b0660b62f2aa6ad4/assets/Flyaway.jpg" width="1012" height="334" alt="Homura Banner"/>
 </a>
 
 <div align="center">
