@@ -1,5 +1,5 @@
 <a href="https://github.com/Kasumikooo">
-  <img src="https://github.com/Kasumikooo/Kasumikooo/blob/730e814d894cbbd3f82f049d756dbc2d99998995/assets/HomuraBanner.jpg" width="100%" alt="Homura Banner"/>
+  <img src="https://github.com/Kasumikooo/Kasumikooo/blob/5828e54bf19c29e51fdc837f850255c64a353073/assets/Homura.jpg" width="100%" alt="Homura Banner"/>
 </a>
 About Me
 I'm currently pursuing a bachelor's degree in computer science<br>I’m currently learning<br>Fun fact: I'm a computer science femboy
